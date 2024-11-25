@@ -1,0 +1,5 @@
+server:
+  port: 8001
+configuration:
+  text: archivod de configuration en yml para dev
+environment: dev
